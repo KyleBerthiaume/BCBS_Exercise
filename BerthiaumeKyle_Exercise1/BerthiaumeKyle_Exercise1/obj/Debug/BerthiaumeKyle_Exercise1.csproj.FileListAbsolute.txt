@@ -1,0 +1,8 @@
+F:\ApplicationTest\BerthiaumeKyle_Exercise1\BerthiaumeKyle_Exercise1\bin\Debug\BerthiaumeKyle_Exercise1.exe.config
+F:\ApplicationTest\BerthiaumeKyle_Exercise1\BerthiaumeKyle_Exercise1\bin\Debug\BerthiaumeKyle_Exercise1.exe
+F:\ApplicationTest\BerthiaumeKyle_Exercise1\BerthiaumeKyle_Exercise1\bin\Debug\BerthiaumeKyle_Exercise1.pdb
+F:\ApplicationTest\BerthiaumeKyle_Exercise1\BerthiaumeKyle_Exercise1\bin\Debug\Multiple.dll
+F:\ApplicationTest\BerthiaumeKyle_Exercise1\BerthiaumeKyle_Exercise1\bin\Debug\Multiple.pdb
+F:\ApplicationTest\BerthiaumeKyle_Exercise1\BerthiaumeKyle_Exercise1\obj\Debug\BerthiaumeKyle_Exercise1.csprojResolveAssemblyReference.cache
+F:\ApplicationTest\BerthiaumeKyle_Exercise1\BerthiaumeKyle_Exercise1\obj\Debug\BerthiaumeKyle_Exercise1.exe
+F:\ApplicationTest\BerthiaumeKyle_Exercise1\BerthiaumeKyle_Exercise1\obj\Debug\BerthiaumeKyle_Exercise1.pdb
